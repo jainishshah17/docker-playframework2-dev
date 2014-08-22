@@ -3,7 +3,7 @@
 # VERSION               0.0.1
 
 FROM centos
-MAINTAINER Mizuki Yamanaka <mizuki@relx.jp>
+MAINTAINER jainish shah <jainishshah17@gmail.com>
 
 ENV PLAY_VERSION 2.2.3
 ENV PATH $PATH:/opt/play-$PLAY_VERSION
